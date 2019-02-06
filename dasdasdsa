@@ -1,0 +1,47 @@
+[33mcommit c2842193f35e65524c19d1ebc4ea1367f5af98ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: majoshi1990 <sparsh123_321@yahoo.com>
+Date:   Sat Dec 8 12:17:06 2018 +0530
+
+    remove file
+
+ test4.c | 1 [31m-[m
+ 1 file changed, 1 deletion(-)
+
+[33mcommit adc85aae7e91e7ddf1aede7898bb69fa0168c37a[m[33m ([m[1;32mtesting[m[33m)[m
+Author: majoshi1990 <sparsh123_321@yahoo.com>
+Date:   Sat Dec 8 11:50:49 2018 +0530
+
+    new changes
+
+ test4.c | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 6ec2b727ffa52fae1ce1064a278a5e9c0163f0c2[m
+Author: majoshi1990 <sparsh123_321@yahoo.com>
+Date:   Tue Dec 4 12:23:13 2018 +0530
+
+    all upload
+
+ test1.c | 2 [32m+[m[31m-[m
+ test2.c | 1 [32m+[m
+ test3.c | 1 [32m+[m
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 8a1eb681d31acb6ff08b97d43ff2f5cd1355b98d[m
+Author: majoshi1990 <sparsh123_321@yahoo.com>
+Date:   Tue Dec 4 12:19:09 2018 +0530
+
+    modified test.c
+
+ test.c | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 270a5b08a4fe06d84ed9ee39e6e298699cfe41ad[m
+Author: majoshi1990 <sparsh123_321@yahoo.com>
+Date:   Tue Dec 4 12:15:58 2018 +0530
+
+    first commit
+
+ test.c  | 1 [32m+[m
+ test1.c | 1 [32m+[m
+ 2 files changed, 2 insertions(+)

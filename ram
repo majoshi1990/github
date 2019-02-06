@@ -1,0 +1,95 @@
+Notification Status
+
+Public contract
+------------------------
+
+1) Interester buyer signature process
+
+Seller - (username) added signature in your contract
+Interested buyer - Seller contact number is xxxxxx
+
+2) After interested buyer payment
+
+seller - (username) has paid contract payment
+other interested buyer ( not payment ) - (contract name) has just been sold now. it is no longer available
+
+3) Seller ship process
+
+seller :- 
+buyer :- (seller) has shipped product
+
+4) Buyer accept product
+
+seller :- not receving notification of buyer accepted notification
+buyer :- 
+
+
+
+
+Private contract
+------------------------
+
+
+1) Create contract with Seller
+
+seller - 
+buyer - (seller name) added you as buyer in contract
+
+
+2) Buyer signature on contract
+
+seller - (buyer) added signature in your contract
+buyer - 
+
+3) Buyer complete payment
+
+seller - (username) has paid contract payment
+buyer - 
+
+4) Seller ship product
+
+seller :- 
+buyer :- (seller) has shipped product
+
+5) Buyer Accept product
+
+seller :- 
+buyer :- no notification
+
+
+
+
+
+public to private contract
+---------------------------
+
+
+
+1) Public interest buyer sign
+
+Seller - (username) added signature in your contract
+interested buyer - Seller contact number is xxxxxx
+
+
+2) after making public to private to one selection buyer from interested buyer
+
+Seller - no notification
+buyer - no notification
+
+
+3) Buyer paid amount of contract
+
+Seller - (buyer) has paid contract payment
+buyer - no notification
+
+
+4) Seller ship product to buyer
+
+Seller - 
+buyer - (seller) has shipped product
+
+5) product accept by buyer
+
+Seller - no notification
+buyer - no notification
+
